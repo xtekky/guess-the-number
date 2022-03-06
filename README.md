@@ -1,4 +1,4 @@
 # guess-the-number
 A simple python guess the number game!
 
-Credits to github.com/xtekky
+Credits to https://github.com/xtekky
