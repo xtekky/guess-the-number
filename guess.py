@@ -2,7 +2,6 @@ from random import randrange
 from time import sleep
 
 num = randrange(1,100,1)
-print(num)
 print('I picked a number between 1 and 100 and you have to guess it!')
 sleep(2)
 
